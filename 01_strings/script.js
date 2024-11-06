@@ -21,4 +21,4 @@ Tom doit écrire une chaîne de caractère qui permet d'écrire cette phrase pou
 
 console.log(`\t\tBonjour `+nom+`,
 
-Aujourd'hui nous faisons une promo "la fidélité paye" !`)
+Aujourd'hui nous faisons une promo "la fidélité paye" !`);
