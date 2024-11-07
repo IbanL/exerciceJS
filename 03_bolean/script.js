@@ -11,7 +11,7 @@ console.log((170 >= 150 || 15 > 16)&& 79 <80);
 //exercice3
 // Remplacez uniquement les "XX" par des opérateurs
 // de comparaison et/ou des opérateurs logiques
-console.log((10 < 12 || 110 < 120) || (58 > 40 && 58 < 60));
+console.log((10 < 12 || 110 <= 120) || (58 > 40 && 58 < 60));
 
 //Chassez le bogue ! 0
 //  En utilisant uniquement des parenthèses, corrigez le bogue !
