@@ -20,9 +20,9 @@ function validation(){
     
     //calcul final
     if ((boolAge||boolTaille)|| boolPoids) {
-        document.getElementById("formResult").innerHTML = "Accès autorisé"
+        document.getElementById("formResult").innerHTML = "Accès autorisé";
     } else {
-        document.getElementById("formResult").innerHTML = "Accès refusé"
+        document.getElementById("formResult").innerHTML = "Accès refusé";   
     }
     
     //debug
